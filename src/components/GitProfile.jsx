@@ -222,7 +222,7 @@ const GitProfile = ({ config }) => {
                       ) : (
                         <p className="font-mono text-sm">
                           Made with{' '}
-                          <span className="text-primary">GitProfile</span> and
+                          <span className="text-primary">geoffrey nyakundi</span> and
                           ❤️
                         </p>
                       )}
