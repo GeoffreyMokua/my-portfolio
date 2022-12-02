@@ -242,7 +242,7 @@ GitProfile.propTypes = {
   config: PropTypes.shape({
     github: PropTypes.shape({
       username: PropTypes.string.isRequired,
-      sortBy: PropTypes.oneOf(['stars', 'updated']),
+      sortBy: PropTypes.oneOf(['stars', 'pinned']),
       limit: PropTypes.number,
       exclude: PropTypes.shape({
         forks: PropTypes.bool,
