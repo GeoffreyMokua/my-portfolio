@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/geoffrey-nyakundi/',
+    linkedin: 'geoffrey-nyakundi',
     twitter: 'geoffrey_maeba',
     facebook: '',
     instagram: 'nyakundi146',
