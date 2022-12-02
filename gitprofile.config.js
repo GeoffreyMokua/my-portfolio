@@ -3,7 +3,12 @@
 const config = {
   github: {
     username: 'GeoffreyMokua', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
+    sortBy: [
+      'https://github.com/GeoffreyMokua/Goal-Board-App',
+      'https://github.com/GeoffreyMokua/covid-19-system',
+      'https://github.com/GeoffreyMokua/Hotel-booking-app',
+
+    ],// stars | updated
     limit: 10, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
