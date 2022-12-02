@@ -11,18 +11,18 @@ const config = {
     },
   },
   social: {
-    linkedin: 'geoffrey_nyakundi',
+    linkedin: 'https://www.linkedin.com/in/geoffrey-nyakundi/',
     twitter: 'geoffrey_maeba',
     facebook: '',
     instagram: 'nyakundi146',
-    medium: 'geoffrey_nyakundi',
+    medium: 'geoffrey nyakundi',
     stackoverflow: '', // format: userid/username
     website: 'https://geoffreymokua.github.io/',
     phone: +254790482160,
     email: 'nyakundigeoffrey16@gmail.com',
   },
   resume: {
-    fileUrl: 'geoffrey resume (1).pdf', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://drive.google.com/file/d/1XYNo6kyK7hedg4jSWYgG9I3P6ZQgCWuy/view?usp=share_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'HTML',
