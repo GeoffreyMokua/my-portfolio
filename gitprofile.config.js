@@ -4,7 +4,7 @@ const config = {
   github: {
     username: 'GeoffreyMokua', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 4, // How many projects to display.
+    limit: 10, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -17,7 +17,7 @@ const config = {
     instagram: 'nyakundi146',
     medium: 'geoffrey nyakundi',
     stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.github.io',
+    website: 'https://geoffreymokua.github.io/',
     phone: +254790482160,
     email: 'nyakundigeoffrey16@gmail.com',
   },
@@ -62,7 +62,7 @@ const config = {
     },
     {
       institution: 'Moringa School',
-      certificate: 'Software Engineering',
+      degree: 'Software Engineering',
       from: '2022',
       to: '2023',
     },
