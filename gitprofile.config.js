@@ -22,7 +22,7 @@ const config = {
     email: 'nyakundigeoffrey16@gmail.com',
   },
   resume: {
-    fileUrl: 'geoffrey resume(1).pdf', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://pdf.ac/wwklK', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'HTML',
