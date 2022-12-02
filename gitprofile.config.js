@@ -11,11 +11,11 @@ const config = {
     },
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/geoffrey-nyakundi-95b96b212/',
-    twitter: 'geoffrey maeba',
-    facebook: 'geoffrey nyakundi',
+    linkedin: 'geoffrey_nyakundi',
+    twitter: 'geoffrey_maeba',
+    facebook: '',
     instagram: 'nyakundi146',
-    medium: 'geoffrey nyakundi',
+    medium: 'geoffrey_nyakundi',
     stackoverflow: '', // format: userid/username
     website: 'https://geoffreymokua.github.io/',
     phone: +254790482160,
