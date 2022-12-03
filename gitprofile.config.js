@@ -14,8 +14,8 @@ const config = {
     linkedin: 'geoffrey-nyakundi',
     twitter: 'geoffrey_maeba',
     facebook: '',
-    instagram: 'nyakundi146',
-    medium: 'geoffrey nyakundi',
+    instagram: '',
+    medium: '',
     stackoverflow: '', // format: userid/username
     website: 'https://geoffreymokua.github.io/',
     phone: +254790482160,
